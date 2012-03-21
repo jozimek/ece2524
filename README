@@ -1,0 +1,1 @@
+The intended function of this module is to be the base set up of the game we are making for our final project. When you execute the the terminal brings you to the main screen where you can press i to view the instructions or press s to start the game. When the user presses start they will be prompted to enter a game file which will then load the storyline they want to play.
